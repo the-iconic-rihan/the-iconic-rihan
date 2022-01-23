@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-###### I'm Rihan Bagwan👨‍💻👨‍💻
+# I'm Rihan Bagwan👨‍💻👨‍💻
 - 🔭 I’m currently working on the Data Structures.
 - 🌱 I’m currently learning cpp,Python.
 - 👯 I’m looking to collaborate on teams and programmers to work on different projects.
