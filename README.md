@@ -20,11 +20,21 @@
 ### Connect with me
 
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
- <a href="https://www.hackerrank.com/rihanbagwan98"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" /></a> &nbsp;&nbsp;
- <a href="https://github.com/the-iconic-rihan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/github.gif" width="50px" /></a> &nbsp;&nbsp;
- <a href="https://instagram.com/the_iconic_rihan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/instagram.gif" width="50px" /></a> &nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/rihanbagwan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/linkedin.gif" width="50px" /></a> &nbsp;&nbsp;
- <a href="https://twitter.com/RihanBagwan4"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/twitter.gif" width="50px" /></a> &nbsp;&nbsp;
+ <a href="https://www.hackerrank.com/rihanbagwan98">
+ <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" /></a>
+  &nbsp;&nbsp;
+ <a href="https://github.com/the-iconic-rihan">
+ <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/github.gif" width="50px" /></a>
+  &nbsp;&nbsp;
+ <a href="https://instagram.com/the_iconic_rihan">
+ <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/instagram.gif" width="50px" /></a>
+ &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/rihanbagwan">
+ <img alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/linkedin.gif" width="50px" /></a>
+ &nbsp;&nbsp;
+ <a href="https://twitter.com/RihanBagwan4">
+ <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/twitter.gif" width="50px" /></a>
+  &nbsp;&nbsp;
 
 <!-- [![website](./img/github.gif)]()
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
