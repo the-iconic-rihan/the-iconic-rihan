@@ -19,21 +19,24 @@
 
 ### Connect with me
 
-
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
- <a href="https://github.com/the-iconic-rihan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="30px" /></a> 
-&nbsp;&nbsp;
-[![website](./img/github.gif)](https://github.com/the-iconic-rihan)
-<!-- [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
+ <a href="https://github.com/the-iconic-rihan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="30px" /></a> &nbsp;&nbsp;
+ <a href="https://github.com/the-iconic-rihan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/github.gif" width="30px" /></a> &nbsp;&nbsp;
+ <a href="https://instagram.com/the_iconic_rihan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/instagram.gif" width="30px" /></a> &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/rihanbagwan"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/linkedin.gif" width="30px" /></a> &nbsp;&nbsp;
+ <a href="https://twitter.com/RihanBagwan4"><img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/twitter.gif" width="30px" /></a> &nbsp;&nbsp;
+
+<!-- [![website](./img/github.gif)]()
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter.gif)](https://twitter.com/RihanBagwan4-light-mode-only)
-<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) -->
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin.gif)](https://www.linkedin.com/in/rihanbagwan/-light-mode-only)
-<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only) -->
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram.gif)](https://instagram.com/the_iconic_rihan)
-<!-- [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
 ### Languages and Tools
 
