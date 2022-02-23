@@ -21,6 +21,7 @@
 
 [![website](./img/hackerrank.svg)](https://www.hackerrank.com/rihanbagwan98)
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
+<img align="left" alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="400px" />
 &nbsp;&nbsp;
 [![website](./img/github.gif)](https://github.com/the-iconic-rihan)
 <!-- [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
