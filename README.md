@@ -1,4 +1,4 @@
-# Hi there 👋 <br/> I'm Rihan Bagwan (./imggiphy.gif/) <!-- aka [codeSTACKr][youtube]-->
+# Hi there 👋 <br/> I'm Rihan Bagwan (./img/giphy.gif) <!-- aka [codeSTACKr][youtube]-->
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://the-iconic-rihan.github.io/Portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
