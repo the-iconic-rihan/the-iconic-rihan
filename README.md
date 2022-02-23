@@ -12,10 +12,10 @@
 
 <!-- - 🔭 Check out my blogs on Medium: [Medium][course]! -->
 - 🌱 I’m currently learning <b>M.E.R.N.<b/>
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 👯 I’m looking to collaborate with other other developers, open source community and projects.
+- 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
+- ⚡ Fun fact: I love to watch web series and play e-games.
+<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 ### Connect with me
 
