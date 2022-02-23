@@ -1,6 +1,6 @@
 # Hi there 👋 <br/> I'm Rihan Bagwan <!-- aka [codeSTACKr][youtube]-->
 
-
+<div style="width:100%;height:0;padding-bottom:50%;position:relative; display:flex"><iframe src="https://giphy.com/embed/g06HKnMmtK1aXurndU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KeepCoding-developer-programmer-home-work-g06HKnMmtK1aXurndU">via GIPHY</a></p>
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://the-iconic-rihan.github.io/Portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
