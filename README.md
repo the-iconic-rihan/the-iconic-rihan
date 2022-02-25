@@ -45,6 +45,7 @@
 [<img align="left" alt="pycharm" width="35px" src="./img/pycharm.png" style="padding-right:10px;" />]
 [<img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding-right:10px;" />]
 [<img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />]
+[<img align="left" alt="android studio" width="35px" src="./img/android.svg" style="padding-right:10px;" />]
 
 <br/>
 
