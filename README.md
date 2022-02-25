@@ -68,7 +68,8 @@
 [<img align="left" alt="firebase" width="35px" src="./img/firebase.svg" style="padding-right:10px;" />][webdevplaylist]
 
 [<img align="left" alt="Terminal" width="35px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-
+<br />
+<br />
 
 ---
 
