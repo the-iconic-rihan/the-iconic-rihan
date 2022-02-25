@@ -64,12 +64,10 @@
 [<img align="left" alt="Python" width="35px" src="./img/python.svg" />]
 [<img align="left" alt="Java" width="35px" src="./img/java.svg" />]
 [<img align="left" alt="CPP" width="35px" src="./img/cpp.svg" />]
-[<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]<br/>
 [<img align="left" alt="firebase" width="35px" src="./img/firebase.svg" style="padding-right:10px;" />][webdevplaylist]
 
 [<img align="left" alt="Terminal" width="35px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-
-
 <br />
 <br />
 
