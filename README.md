@@ -41,7 +41,7 @@
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Gitlab" width="35px" src="./img/gitlab.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="35px" src="./img/github.gif" style="padding-right:10px;" />]
 [<img align="left" alt="pycharm" width="35px" src="./img/pycharm.png" style="padding-right:10px;" />]
 [<img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding-right:10px;" />]
 [<img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />]
