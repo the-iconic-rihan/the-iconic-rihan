@@ -56,12 +56,12 @@
 [<img align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sqlite" width="50px" src="./img/sqlite.png" style="padding-right:10px;" />]
+[<img align="left" alt="Sqlite" width="50px" src="./img/sqlite.png" style="padding-right:10px;" />] <br/>
 [<img align="left" alt="emailjs" width="50px" src="./img/emailjs.jpg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Java" width="35px" src="./img/java.svg" />]
+[<img align="left" alt="Java" width="35px" src="./img/java.svg" style="padding-right:10px;"/>]
 
 ---
 
