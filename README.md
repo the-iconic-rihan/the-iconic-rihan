@@ -61,7 +61,7 @@
 [<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Deno" width="35px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding-right:10px; />]
+[<img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Java" width="35px" src="./img/java.svg" />]
 [<img align="left" alt="CPP" width="35px" src="./img/cpp.svg" />]
 [<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]<br/>
