@@ -72,8 +72,6 @@
 <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding-right:10px;"/>
 <!-- <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding-right:10px;"/> -->
 
----
-
 ### 📺 Latest YouTube Videos
 
 ➡️ [more videos...](https://youtube.com/codestackr)
