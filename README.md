@@ -36,6 +36,7 @@
  <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/twitter.gif" width="50px" /></a>
   &nbsp;&nbsp;
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+
 ### Tools
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -48,6 +49,8 @@
 <img align="left" alt="android studio" width="45px" src="./img/android.svg" style="padding-right:10px;" />
 
 <br/>
+
+
 
 ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -62,6 +65,8 @@
 <img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="35px" src="./img/java.svg" style="padding-right:10px;"/>
 <img align="left" alt="CPP" width="35px" src="./img/cpp.svg" style="padding-right:10px;"/>
+
+
 
 ### Databases
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
