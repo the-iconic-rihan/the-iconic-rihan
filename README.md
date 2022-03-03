@@ -35,9 +35,10 @@
  <a href="https://twitter.com/RihanBagwan4">
  <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/twitter.gif" width="50px" /></a>
   &nbsp;&nbsp;
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+<img src="./img/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-### Tools & Languages
+### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gitlab" width="35px" src="./img/gitlab.svg" style="padding-right:10px;" />
@@ -47,7 +48,6 @@
 <img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding-right:10px;" />
 <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
 <img align="left" alt="android studio" width="45px" src="./img/android.svg" style="padding-right:10px;" />
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
