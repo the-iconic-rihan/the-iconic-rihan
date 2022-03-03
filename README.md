@@ -47,6 +47,7 @@
 <img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding-right:10px;" />
 <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
 <img align="left" alt="android studio" width="45px" src="./img/android.svg" style="padding-right:10px;" />
+<br/>
 
 ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -61,6 +62,7 @@
 <img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="35px" src="./img/java.svg" style="padding-right:10px;"/>
 <img align="left" alt="CPP" width="35px" src="./img/cpp.svg" style="padding-right:10px;"/>
+<br/>
 
 ### Databases
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
