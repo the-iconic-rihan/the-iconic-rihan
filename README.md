@@ -59,7 +59,6 @@
 [<img align="left" alt="Sqlite" width="50px" src="./img/sqlite.png" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="emailjs" width="50px" src="./img/emailjs.jpg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="35px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Java" width="35px" src="./img/java.svg" />]
@@ -67,7 +66,7 @@
 [<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]<br/>
 [<img align="left" alt="firebase" width="35px" src="./img/firebase.svg" style="padding-right:10px;" />][webdevplaylist]
 
-[<img align="left" alt="Terminal" width="35px" src="./img/terminal-light.svg" />]
+[<img align="left" alt="Terminal" width="35px" src="./img/terminalpng.png" style="padding-right:10px;"/>]
 <br />
 <br />
 
@@ -75,15 +74,11 @@
 
 ### 📺 Latest YouTube Videos
 
-
-
 ➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
 ### 📕 Latest Blog Posts
-
-
 
 ➡️ [more blog posts...](https://codestackr.com)
 
