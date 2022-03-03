@@ -61,13 +61,13 @@
 [<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Deno" width="35px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Python" width="35px" src="./img/python.svg" />]
+[<img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding-right:10px; />]
 [<img align="left" alt="Java" width="35px" src="./img/java.svg" />]
 [<img align="left" alt="CPP" width="35px" src="./img/cpp.svg" />]
 [<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]<br/>
 [<img align="left" alt="firebase" width="35px" src="./img/firebase.svg" style="padding-right:10px;" />][webdevplaylist]
 
-[<img align="left" alt="Terminal" width="35px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="35px" src="./img/terminal-light.svg" />]
 <br />
 <br />
 
@@ -75,13 +75,7 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [STACKr News Weekly: BIG Next.js Update!, ERC Contracts Explained, Kubernetes What??](https://www.youtube.com/watch?v=PaSCBCWtZnE)
-- [ERC-20 vs ERC-721 vs ERC-1155 | &lpar;Non&rpar;Fungible Token Contracts Explained | FT vs NFT](https://www.youtube.com/watch?v=_rxHurlszUE)
-- [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
-- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
-- [Markdown Tips &amp; Tricks 2022 - Markdown Crash Course](https://www.youtube.com/watch?v=ftOBvusMHjQ)
-<!-- YOUTUBE:END -->
+
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
@@ -89,13 +83,7 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+
 
 ➡️ [more blog posts...](https://codestackr.com)
 
