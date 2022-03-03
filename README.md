@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I love to watch web series and play e-games.
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
-### Connect with me
+### Connect with me <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
 
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
  <a href="https://www.hackerrank.com/rihanbagwan98">
@@ -39,16 +39,14 @@
 
 ### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gitlab" width="35px" src="./img/gitlab.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="35px" src="./img/github.gif" style="padding-right:10px;" />
 <img align="left" alt="pycharm" width="35px" src="./img/pycharm.png" style="padding-right:10px;" />
 <img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding-right:10px;" />
-<img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
-<img align="left" alt="android studio" width="45px" src="./img/android.svg" style="padding-right:10px;" />
 
+<img align="left" alt="android studio" width="45px" src="./img/android.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
