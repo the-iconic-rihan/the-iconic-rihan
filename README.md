@@ -39,18 +39,18 @@
 
 ### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 0 10px 10px 0" />
-<img align="left" alt="Gitlab" width="35px" src="./img/gitlab.svg" style="padding: 0 10px 10px 0" />
-<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding: 0 10px 10px 0" />
-<img align="left" alt="GitHub" width="35px" src="./img/github.gif" style="padding: 0 10px 10px 0" />
-<img align="left" alt="pycharm" width="35px" src="./img/pycharm.png" style="padding: 0 10px 10px 0" />
-<img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding: 0 10px 10px 0" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="Gitlab" width="35px" src="./img/gitlab.svg" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="GitHub" width="35px" src="./img/github.gif" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="pycharm" width="35px" src="./img/pycharm.png" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding: 0 10px 10px 0;" />
 
-<img align="left" alt="android studio" width="45px" src="./img/android.svg" style="padding: 0 10px 10px 0" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding: 0 10px 10px 0" />
-<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding: 0 10px 10px 0" />
-<img align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding: 0 10px 10px 0" />
-<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding: 0 10px 10px 0" />
+<img align="left" alt="android studio" width="45px" src="./img/android.svg" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding: 0 10px 10px 0;" />
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding: 0 10px 10px 0;" />
 <code><a href = "https://getbootstrap.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code>
 <img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding: 0 10px 10px 0;" />
 <img align="left" alt="Sqlite" width="50px" src="./img/sqlite.png" style="padding: 0 10px 10px 0;" />
@@ -59,8 +59,8 @@
 <img align="left" alt="Java" width="35px" src="./img/java.svg" style="padding: 0 10px 10px 0;"/>
 <img align="left" alt="CPP" width="35px" src="./img/cpp.svg" style="padding: 0 10px 10px 0;"/>
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="35px" src="./img/mysql.png" style="p: 0 10px 10px 0:10px;"/>
-<img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="p: 0 10px 10px 0:10px;"/>
+<img align="left" alt="MySQL" width="35px" src="./img/mysql.png" style="padding: 0 10px 10px 0;"/>
+<img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding: 0 10px 10px 0;"/>
 <!-- <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding-right:10px;"/> -->
 
 ---
