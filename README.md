@@ -11,7 +11,7 @@
 ## I'm a Programmer, Student, Reader, and Trekker
 
 <!-- - 🔭 Check out my blogs on Medium: [Medium][course]! -->
-- 🌱 I’m currently learning <b>M.E.R.N.<b/>
+- 🌱 I’m currently learning <br>M.E.R.N.<b/>
 - 👯 I’m looking to collaborate with other other developers, open source community and projects.
 - 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
 - ⚡ Fun fact: I love to watch web series and play e-games.
@@ -55,7 +55,7 @@
 <img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding: 0 10px 10px 0;" />
 <img align="left" alt="Java" width="35px" src="./img/java.svg" style="padding: 0 10px 10px 0;"/>
-<img align="left" alt="CPP" width="35px" src="./img/cpp.svg" style="padding: 0 10px 10px 0;"/>
+<img align="left" alt="CPP" width="35px" src="./img/cpp.svg" style="padding: 0 10px 10px 0;"/></br>
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="35px" src="./img/mysql.png" style="padding: 0 10px 10px 0;"/>
 <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding: 0 10px 10px 0;"/>
