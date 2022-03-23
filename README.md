@@ -64,7 +64,6 @@
 
 <br/>
 <details>
-<details>
 
 ---
 #  GitHub Stats
