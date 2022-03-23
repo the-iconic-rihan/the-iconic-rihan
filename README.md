@@ -15,11 +15,9 @@
 - 👯 I’m looking to collaborate with other other developers, open source community and projects.
 - 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
 - ⚡ Fun fact: I love to watch web series and play e-games.
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 ### Connect with me <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
 
-<!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
  <a href="https://www.hackerrank.com/rihanbagwan98">
  <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" /></a>
   &nbsp;&nbsp;
@@ -64,25 +62,12 @@
 
 
 
+<br/>
 ---
 <br/>
-### :zap: GitHub Stats
+ # zap: GitHub Stats
 
   <img align="left" alt="Rihan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ---
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
-  
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
-
 
