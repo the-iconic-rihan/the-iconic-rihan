@@ -10,7 +10,6 @@
 
 ## I'm a Programmer, Student, Reader, and Trekker
 
-<!-- - 🔭 Check out my blogs on Medium: [Medium][course]! -->
 - 🌱 I’m currently learning <br>M.E.R.N.<b/>
 - 👯 I’m looking to collaborate with other other developers, open source community and projects.
 - 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
