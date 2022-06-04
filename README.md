@@ -21,7 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 0 10px 10px 0;" />
 <img align="left" alt="Gitlab" width="35px" src="./img/gitlab.svg" style="padding: 0 10px 10px 0;" />
 <img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding: 0 10px 10px 0;" />
-<img align="left" alt="GitHub" width="35px" src="./img/github.gif" style="padding: 0 10px 10px 0;" />
+
 <img align="left" alt="pycharm" width="35px" src="./img/pycharm.png" style="padding: 0 10px 10px 0;" />
 <img align="left" alt="intellij" width="35px" src="./img/intellij.png" style="padding: 0 10px 10px 0;" />
 
