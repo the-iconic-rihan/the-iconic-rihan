@@ -14,19 +14,7 @@
  <a href="https://www.hackerrank.com/rihanbagwan98">
  <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" /></a>
   &nbsp;&nbsp;
- <a href="https://github.com/the-iconic-rihan">
- <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/github.gif" width="50px" /></a>
-  &nbsp;&nbsp;
- <a href="https://instagram.com/the_iconic_rihan">
- <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/instagram.gif" width="50px" /></a>
- &nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/rihanbagwan">
- <img alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/linkedin.gif" width="50px" /></a>
- &nbsp;&nbsp;
- <a href="https://twitter.com/RihanBagwan4">
- <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/twitter.gif" width="50px" /></a>
-  &nbsp;&nbsp;
-<img src="./img/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+ 
 
 ### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
