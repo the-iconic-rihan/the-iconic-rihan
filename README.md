@@ -9,13 +9,15 @@
 - 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
 - ⚡ Fun fact: I love to watch web series and play e-games.
 
+---
+
 ### Connect with me <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
 
  <a href="https://www.hackerrank.com/rihanbagwan98">
  <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" /></a>
   &nbsp;&nbsp;
  
-
+---
 ### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 0 10px 10px 0;" />
@@ -42,10 +44,7 @@
 <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding: 0 10px 10px 0;"/>
 <br/>
 ---
-<br/>
-<br/>
  <summary>zap: GitHub Stats </summary>
 
   <img alt="Rihan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
----
