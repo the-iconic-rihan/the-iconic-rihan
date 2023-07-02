@@ -22,6 +22,9 @@
 <a href="https://www.linkedin.com/in/rihanbagwan/">
   <img  alt="SVG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="50px" />
 </a>
+<a href="https://twitter.com/RihanBagwan4">
+  <img  alt="SVG" src="https://pngtree.com/so/twitter" width="50px" />
+</a>
 ---
 
 ### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
