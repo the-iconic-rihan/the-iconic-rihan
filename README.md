@@ -14,12 +14,15 @@
 
 ---
 
-### Connect with me  <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
+### Connect with me 
+<img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
 
 <a href="https://www.hackerrank.com/rihanbagwan98">
   <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" />
 </a>
-
+<a href="https://www.linkedin.com/in/rihanbagwan/">
+  <img  alt="SVG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="50px" />
+</a>
 ---
 
 ### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
