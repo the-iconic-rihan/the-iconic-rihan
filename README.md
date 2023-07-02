@@ -18,7 +18,7 @@
 
 <a href="https://www.hackerrank.com/rihanbagwan98">
   <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" />
-</a> &nsbp;
+</a>
 <a href="https://www.linkedin.com/in/rihanbagwan/">
   <img  alt="SVG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="50px" />
 </a>
