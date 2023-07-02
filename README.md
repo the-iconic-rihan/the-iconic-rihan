@@ -23,7 +23,7 @@
   <img  alt="SVG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="50px" />
 </a>
 <a href="https://twitter.com/RihanBagwan4">
-  <img  alt="SVG" src="https://pngtree.com/so/twitter" width="50px" />
+  <img  alt="SVG" src="https://img.freepik.com/premium-vector/social-media-icon-illustration-twitter-twitter-icon-vector-illustration_561158-2027.jpg" width="50px" />
 </a>
 ---
 
