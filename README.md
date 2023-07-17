@@ -51,7 +51,7 @@
 <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding: 0 10px 10px 0;"/>
 
 ---
-
+<br>
   <summary>My GitHub Stats</summary>
 
   <!-- <div style="float:left">
