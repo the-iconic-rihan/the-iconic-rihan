@@ -1,12 +1,21 @@
 # Hi there! <img src="./img/hi.gif" alt="hi gif" style="width:30px; height:30px;">
 
-| <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif"> | <h1 align="left">👨‍💻 I'm <a href="https://github.com/the-iconic-rihan">Rihan Bagwan</a></h1>
-<h2>I'm a Programmer, Student, Reader, and Trekker</h2>
-- 🌱 I’m currently learning **M.E.R.N.**
-- 👯 I’m looking to collaborate with other developers, open-source communities, and projects.
-- 🥅 2023 Goals: Learn more about web 3.0, Data Structures, and Algorithms.
-- ⚡ Fun fact: I love to watch web series and play e-games. |
-|---|---|
+<div style="display: flex;">
+  <div style="flex: 50%;">
+    <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif">
+  </div>
+  <div style="flex: 50%;">
+    <h1 align="left">👨‍💻 I'm <a href="https://github.com/the-iconic-rihan">Rihan Bagwan</a></h1>
+    <h2>I'm a Programmer, Student, Reader, and Trekker</h2>
+    <ul>
+      <li>🌱 I’m currently learning <strong>M.E.R.N.</strong></li>
+      <li>👯 I’m looking to collaborate with other developers, open-source communities, and projects.</li>
+      <li>🥅 2023 Goals: Learn more about web 3.0, Data Structures, and Algorithms.</li>
+      <li>⚡ Fun fact: I love to watch web series and play e-games.</li>
+    </ul>
+  </div>
+</div>
+
 
 
 
