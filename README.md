@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <h1 align="center">
-  <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif"><br>
+  <img src="./img/hi.gif"alt="hello1.gif"><br>
   I'm <a href="https://github.com/the-iconic-rihan">Rihan Bagwan</a> 👨‍💻
 </h1>
 
