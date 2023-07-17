@@ -1,7 +1,7 @@
 # Hi there! <img src="./img/hi.gif" alt="hi gif" style="width:30px; height:30px;">
 
 <div>
-    <div style="float: left; width: 50%;">
+    <div float="left" width="50%;">
         <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif" width="100%">
     </div>
     <div style="float: right; width: 50%;">
