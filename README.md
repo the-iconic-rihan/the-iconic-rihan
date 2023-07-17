@@ -63,10 +63,12 @@
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-iconic-rihan&layout=compact&theme=dark&hide_border=true" />
     </div>
   </div> -->
-  <summary>My GitHub Stats</summary>
 
-  | ![Rihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-iconic-rihan&layout=compact&theme=dark&hide_border=true) |
-  |:---:|:---:|
+<p float="left">
+    <img alt="Rihan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="width: 50%" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-iconic-rihan&layout=compact&theme=dark&hide_border=true" style="width: 50%" />
+  </p>
+
 
  <img alt="Rihan's GitHub Commit Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=the-iconic-rihan&hide_border=false&background=09131B&stroke=ffffff&ring=FF652F&fire=FFE400&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=0C1A25" />
 
