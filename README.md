@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# Hi there! 👋
 
 <h1 align="center">
   <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif"><br>
@@ -14,7 +14,7 @@
 
 ---
 
-### Connect with me   <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
+### Connect with me <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" />
 
 <a href="https://www.hackerrank.com/rihanbagwan98">
   <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" />
@@ -25,7 +25,6 @@
 <a href="https://twitter.com/RihanBagwan4">
   <img  alt="SVG" src="https://img.freepik.com/premium-vector/social-media-icon-illustration-twitter-twitter-icon-vector-illustration_561158-2027.jpg" width="50px" />
 </a>
-
 
 ---
 
@@ -64,15 +63,9 @@
 
   <img alt="Rihan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
-
-<details>
+ 
   <summary>GitHub Commit Graph and Longest Streak</summary>
 
-  <img alt="Rihan's GitHub Commit Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=the-iconic-rihan&hide_border=false&background=09131B&stroke=ffffff&ring=FF652F&fire=FFE400&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=0C1A25" />
+![Rihan's GitHub Commit Graph] <img alt="Rihan's GitHub Commit Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=the-iconic-rihan&hide_border=false&background=09131B&stroke=ffffff&ring=FF652F&fire=FFE400&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=0C1A25" />
 
- 
-</details>
-
- ![Rihan's GitHub Commit Graph](https://github-readme-commit.vercel.app/api?user=the-iconic-rihan&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 ---
-
