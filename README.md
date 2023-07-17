@@ -6,24 +6,13 @@
   <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif">
 </p>
 
-## About Me
 
-<h2>I'm a Programmer, Student, Reader, and Trekker</h2>
+## I'm a Programmer, Student, Reader, and Trekker
 
-- 🌱 I’m currently learning **M.E.R.N.**
-- 👯 I’m looking to collaborate with other developers, open-source communities, and projects.
-- 🥅 2023 Goals: Learn more about web 3.0, Data Structures, and Algorithms.
-- ⚡ Fun fact: I love to watch web series and play e-games.
-
----
-
-## Skills
-
-**Programming Languages:** JavaScript, Python, HTML, CSS\
-**Frameworks/Libraries:** React, Express, Node.js\
-**Databases:** MongoDB, MySQL\
-**Version Control:** Git\
-**Other Tools:** VS Code, Postman, Docker
+-🌱 I’m currently learning **M.E.R.N.**
+-👯 I’m looking to collaborate with other developers, open-source communities, and projects.
+-🥅 2023 Goals: Learn more about web 3.0, Data Structures, and Algorithms.
+-⚡ Fun fact: I love to watch web series and play e-games.
 
 ---
 
