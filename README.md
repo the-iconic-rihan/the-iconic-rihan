@@ -1,4 +1,4 @@
-# Hi there! <img src="./img/hi.gif" alt="hi gif" style="width:20px; height:30px;">
+# Hi there! <img src="./img/hi.gif" alt="hi gif" style="width:40px; height:30px;">
 
 <h1 align="center">
   <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif"><br>
