@@ -47,15 +47,9 @@
 <img align="left" alt="Python" width="35px" src="./img/python.svg" style="padding: 0 10px 10px 0;" />
 <img align="left" alt="Java" width="35px" src="./img/java.svg" style="padding: 0 10px 10px 0;"/>
 <img align="left" alt="CPP" width="35px" src="./img/cpp.svg" style="padding: 0 10px 10px 0;"/>
-<br/>
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="35px" src="./img/mysql.png" style="padding: 0 10px 10px 0;"/>
 <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding: 0 10px 10px 0;"/>
-
-<br/>
-<br/>
-<br/>
-
 ---
 
 <details>
