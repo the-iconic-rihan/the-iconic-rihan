@@ -63,8 +63,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-iconic-rihan&layout=compact&theme=dark&hide_border=true)
 
-<div style="flex:50%;">
-
+</div>
 </div>
 
  <img alt="Rihan's GitHub Commit Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=the-iconic-rihan&hide_border=false&background=09131B&stroke=ffffff&ring=FF652F&fire=FFE400&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=0C1A25" />
