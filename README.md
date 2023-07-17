@@ -16,7 +16,7 @@
 
 ---
 
-### Connect with me <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" /><br/>
+## Connect with me <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" /><br/>
 
 <a href="https://www.hackerrank.com/rihanbagwan98">
   <img  alt="SVG" src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/hackerrank.svg" width="50px" />
@@ -28,7 +28,6 @@
   <img  alt="SVG" src="https://img.freepik.com/premium-vector/social-media-icon-illustration-twitter-twitter-icon-vector-illustration_561158-2027.jpg" width="50px" />
 </a>
 
----
 ### Tools & Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 0 10px 10px 0;" />
