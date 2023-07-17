@@ -1,9 +1,7 @@
 # Hi there! <img src="./img/hi.gif" alt="hi gif" style="width:30px; height:30px;">
 
-<h1 align="center">
- 👨‍💻 I'm <a href="https://github.com/the-iconic-rihan">Rihan Bagwan</a> </h1> <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif">
-  
- ### I'm a Programmer, Student, Reader, and Trekker
+<h1 align="left">
+ 👨‍💻 I'm <a href="https://github.com/the-iconic-rihan">Rihan Bagwan</a> </h1> <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif">  <h2 >I'm a Programmer, Student, Reader, and Trekker </h2>
 
 - 🌱 I’m currently learning **M.E.R.N.**
 - 👯 I’m looking to collaborate with other developers, open-source communities, and projects.
