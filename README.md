@@ -70,8 +70,9 @@
 
   <img alt="Rihan's GitHub Commit Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=the-iconic-rihan&hide_border=false&background=09131B&stroke=ffffff&ring=FF652F&fire=FFE400&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=0C1A25" />
 
-  ![Rihan's GitHub Commit Graph](https://github-readme-commit.vercel.app/api?user=the-iconic-rihan&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+ 
 </details>
 
+ ![Rihan's GitHub Commit Graph](https://github-readme-commit.vercel.app/api?user=the-iconic-rihan&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 ---
 
