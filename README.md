@@ -48,11 +48,10 @@
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="35px" src="./img/mysql.png" style="padding: 0 10px 10px 0;"/>
 <img align="left" alt="Firebase" width="35px" src="./img/firebase.svg" style="padding: 0 10px 10px 0;"/>
-
+<br/>
 <br/>
 
 ---
-<br/>
 
 ### My GitHub Stats
 
