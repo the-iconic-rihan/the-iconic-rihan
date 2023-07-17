@@ -56,7 +56,7 @@
   <summary>My GitHub Stats</summary>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="55%" alt="Rihan's GitHub Stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-iconic-rihan&layout=compact&theme=dark&hide_border=true" height="190px" alt="Top Languages"> 
+<img src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="55%" alt="Rihan's GitHub Stats">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-iconic-rihan&layout=compact&theme=dark&hide_border=true" height="190px" alt="Top Languages"> 
 
 <!-- ![Rihan's GitHub Stats ](https://github-readme-stats.vercel.app/api?username=the-iconic-rihan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&max-width=55%&width=55%)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-iconic-rihan&layout=compact&theme=dark&hide_border=true&height=190px) -->
 
