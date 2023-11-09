@@ -9,7 +9,7 @@
 
 ## I'm a Programmer, Student, Reader, and Trekker
 
-- 🌱 I’m currently learning **M.E.R.N.**
+- 🌱 I’m currently learning **M.E.R.N.**, working in Python, Django, DevOps
 - 👯 I’m looking to collaborate with other developers, open-source communities, and projects.
 - 🥅 2023 Goals: Learn more about web 3.0, Data Structures, and Algorithms.
 - ⚡ Fun fact: I love to watch web series and play e-games.
