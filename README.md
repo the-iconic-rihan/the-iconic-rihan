@@ -18,7 +18,7 @@
   
   <div style="flex: 50%;">
     <p align="center">
-      <img src="img/giphy.gif" alt="Your GIF">
+      <img src="img/giphy.gif" alt="Your GIF" style="width:100%;height:250px">
     </p>
   </div>
 </div>
