@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👨‍💻 Hey, I'm Rihan Bagwan</h1>
-<p align="center">Programmer | Student | Reader | Trekker</p>
+<p align="center">Programmer | Reader | Trekker</p>
 
 <!-- Introduction Section -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -9,21 +9,23 @@
       Hi, I'm Rihan Bagwan, a passionate programmer and student who loves exploring new technologies. Currently, I'm focused on learning and working with the MERN stack, Python, Django, and DevOps.
     </p>
     
-    - 🌱 I’m continuously learning and improving my skills.
-    - 👯 I’m open to collaboration with developers and open-source projects.
-    - 🥅 My 2023 Goals: Dive deeper into web 3.0, master Data Structures, and Algorithms.
-    - ⚡ Fun fact: I'm a web series enthusiast and an avid e-gamer.
+    <ul>
+      <li>🌱 I’m continuously learning and improving my skills.</li>
+      <li>👯 I’m open to collaboration with developers and open-source projects.</li>
+      <li>🥅 My 2024 Goals: Dive deeper into web 3.0, master Data Structures, and Algorithms.</li>
+      <li>⚡ Fun fact: I'm a web series enthusiast and an avid e-gamer.</li>
+    </ul>
   </div>
   
   <div style="flex: 50%;">
     <p align="center">
-      <img src="https://github.com/the-iconic-rihan/the-iconic-rihan/blob/main/img/giphy.gif" alt="hello1.gif">
+      <img src="D:/coding/the-iconic-rihan/img/giphy.gif" alt="Your GIF">
     </p>
   </div>
 </div>
 
 <!-- Connect with Me Section -->
-<h2 align="center">Connect with Me <img align="left" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" /></h2>
+<h2 align="center">Connect with Me <img align="center" alt="idea" width="35px" src="./img/idea.png" style="padding-right:10px;" /></h2>
 
 <p align="center">
   <a href="https://www.hackerrank.com/rihanbagwan98">
@@ -59,11 +61,13 @@
   <img align="left" alt="MongoDB" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="MySQL" width="45px" src="./img/mysql.png" style="padding: 0 10px 10px 0;"/>
   <img align="left" alt="Firebase" width="45px" src="./img/firebase.svg" style="padding: 0 10px 10px 0;"/>
+  <!-- Add more tools and languages here -->
 </p>
 
 <br/>
 <br/>
 
+<br/>
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 
