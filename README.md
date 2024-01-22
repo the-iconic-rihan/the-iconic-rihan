@@ -19,7 +19,7 @@
   
   <div style="flex: 50%;">
     <p align="center">
-      <img src="D:/coding/the-iconic-rihan/img/giphy.gif" alt="Your GIF">
+      <img src="img/giphy.gif" alt="Your GIF">
     </p>
   </div>
 </div>
