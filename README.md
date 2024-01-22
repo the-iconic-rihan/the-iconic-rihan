@@ -8,7 +8,6 @@
     <p>
       Hi, I'm Rihan Bagwan, a passionate programmer and student who loves exploring new technologies. Currently, I'm focused on learning and working with the MERN stack, Python, Django, and DevOps.
     </p>
-    
     <ul>
       <li>🌱 I’m continuously learning and improving my skills.</li>
       <li>👯 I’m open to collaboration with developers and open-source projects.</li>
