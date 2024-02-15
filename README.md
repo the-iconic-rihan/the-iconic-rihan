@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👨‍💻 Hey, I'm Rihan Bagwan</h1>
-<p align="center">Programmer | Reader | Trekker</p>
+<p align="center">Programmer | Reader | Software Engineer</p>
 
 <!-- Introduction Section -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
