@@ -18,7 +18,7 @@
 
 I'm a software engineer with **3+ years of experience**. For the last year I've focused on **data engineering**:
 Python, PySpark and Airflow pipelines that load **15–20 GB a day into ClickHouse**, which I also deploy and
-run myself on **RHEL Linux with Docker**.
+run myself on **Linux with Docker**.
 
 ```yaml
 name: Rihan Bagwan
@@ -110,9 +110,8 @@ flowchart LR
       <img src="assets/icons/pandas.svg" width="44" alt="Pandas">
       <img src="assets/icons/numpy.svg" width="44" alt="NumPy">
       <img src="assets/icons/duckdb.svg" width="44" alt="DuckDB">
-      <img src="assets/icons/parquet.svg" width="44" alt="Apache Parquet">
-      <img src="assets/icons/databricks.svg" width="44" alt="Databricks"><br/>
-      <sub>PySpark · Apache Airflow · Apache Kafka · RabbitMQ · Celery · Pandas · NumPy · DuckDB · Parquet · Databricks · dbt</sub><br/>
+      <img src="assets/icons/parquet.svg" width="44" alt="Apache Parquet"><br/>
+      <sub>PySpark · Apache Airflow · Apache Kafka · RabbitMQ · Celery · Pandas · NumPy · DuckDB · Parquet · dbt</sub><br/>
       <sub><i>Concepts: ETL / ELT · Batch &amp; streaming · CDC · Data modeling (star / snowflake) · Data quality · Incremental loads · Partitioning · Data lake / lakehouse</i></sub>
     </td>
   </tr>
@@ -215,8 +214,8 @@ flowchart LR
 
 | | Role | Focus |
 |:--|:--|:--|
-| **Nov 2025 – Present** | **Software Development Engineer** · Skillmine Technology Consulting | ETL/ELT into ClickHouse (15–20 GB/day), PySpark, Airflow, Celery, FastAPI, Docker on RHEL |
-| **Jan 2024 – Nov 2025** | **Software Development Engineer** · Reliance Jio Platforms | Data ingestion &amp; sync, SQL tuning (−25% latency), Django, Python/Bash automation on RHEL |
+| **Nov 2025 – Present** | **Software Development Engineer** · Skillmine Technology Consulting | ETL/ELT into ClickHouse (15–20 GB/day), PySpark, Airflow, Celery, FastAPI, Docker on Linux |
+| **Jan 2024 – Nov 2025** | **Software Development Engineer** · Reliance Jio Platforms | Data ingestion &amp; sync, SQL tuning (−25% latency), Django, Python/Bash automation on Linux |
 | **Aug 2023 – Jan 2024** | **Software Development Engineer** · Dimensionless Technologies | GPT-3.5 automation (+35% efficiency), LLM data prep, real-time backends (WebSockets, asyncio) |
 
 ## 🎓 Education & publication
