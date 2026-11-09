@@ -96,86 +96,121 @@ flowchart LR
       <img src="https://skillicons.dev/icons?i=python" width="44" alt="Python">
       <img src="assets/icons/sql.svg" width="44" alt="SQL">
       <img src="https://skillicons.dev/icons?i=bash" width="44" alt="Bash"><br/>
-      <sub>Python · SQL · Bash</sub>
+      <sub>Python · SQL · Bash · YAML</sub>
     </td>
   </tr>
   <tr>
-    <td><b>Data engineering</b></td>
+    <td width="170"><b>Data engineering</b></td>
     <td>
-      <img src="assets/icons/spark.svg" width="44" alt="Apache Spark / PySpark">
+      <img src="assets/icons/spark.svg" width="44" alt="Apache Spark">
       <img src="assets/icons/airflow.svg" width="44" alt="Apache Airflow">
+      <img src="https://skillicons.dev/icons?i=kafka" width="44" alt="Apache Kafka">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="44" alt="RabbitMQ">
       <img src="assets/icons/celery.svg" width="44" alt="Celery">
       <img src="assets/icons/pandas.svg" width="44" alt="Pandas">
       <img src="assets/icons/numpy.svg" width="44" alt="NumPy">
       <img src="assets/icons/duckdb.svg" width="44" alt="DuckDB">
-      <img src="assets/icons/parquet.svg" width="44" alt="Apache Parquet"><br/>
-      <sub>PySpark · Apache Airflow · Celery · Pandas · NumPy · DuckDB · Parquet · ETL/ELT · data validation · data modeling</sub>
+      <img src="assets/icons/parquet.svg" width="44" alt="Apache Parquet">
+      <img src="assets/icons/databricks.svg" width="44" alt="Databricks"><br/>
+      <sub>PySpark · Apache Airflow · Apache Kafka · RabbitMQ · Celery · Pandas · NumPy · DuckDB · Parquet · Databricks · dbt</sub><br/>
+      <sub><i>Concepts: ETL / ELT · Batch &amp; streaming · CDC · Data modeling (star / snowflake) · Data quality · Incremental loads · Partitioning · Data lake / lakehouse</i></sub>
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td width="170"><b>Databases &amp; storage</b></td>
     <td>
       <img src="assets/icons/clickhouse.svg" width="44" alt="ClickHouse">
       <img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL">
       <img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL">
       <img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB">
       <img src="https://skillicons.dev/icons?i=elasticsearch" width="44" alt="Elasticsearch">
-      <img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis"><br/>
-      <sub>ClickHouse · PostgreSQL · MySQL · MongoDB · Elasticsearch · Redis</sub>
+      <img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="44" alt="SQLite">
+      <img src="https://skillicons.dev/icons?i=dynamodb" width="44" alt="DynamoDB"><br/>
+      <sub>ClickHouse · PostgreSQL · MySQL · MongoDB · Elasticsearch · Redis · SQLite · DynamoDB</sub>
     </td>
   </tr>
   <tr>
-    <td><b>DevOps &amp; CI/CD</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="44" alt="Kubernetes">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="44" alt="Jenkins">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="44" alt="GitLab CI">
-      <img src="https://skillicons.dev/icons?i=git" width="44" alt="Git">
-      <img src="https://skillicons.dev/icons?i=nginx" width="44" alt="Nginx">
-      <img src="https://skillicons.dev/icons?i=grafana" width="44" alt="Grafana"><br/>
-      <sub>Docker · Docker Compose · Kubernetes (basic) · GitHub Actions · Jenkins · GitLab CI · Git · Nginx · Grafana</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS">
-      <img src="https://skillicons.dev/icons?i=azure" width="44" alt="Azure"><br/>
-      <sub>AWS · Azure</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Linux &amp; infra</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=redhat" width="44" alt="Red Hat Enterprise Linux">
-      <img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="44" alt="Ubuntu"><br/>
-      <sub>RHEL · Linux administration · Ubuntu · systemd · cron · yum/dnf · log analysis</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; automation</b></td>
+    <td width="170"><b>Python backend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI">
       <img src="https://skillicons.dev/icons?i=django" width="44" alt="Django">
+      <img src="https://skillicons.dev/icons?i=flask" width="44" alt="Flask">
+      <img src="assets/icons/sqlalchemy.svg" width="44" alt="SQLAlchemy">
+      <img src="assets/icons/pydantic.svg" width="44" alt="Pydantic">
       <img src="https://skillicons.dev/icons?i=graphql" width="44" alt="GraphQL">
-      <img src="https://skillicons.dev/icons?i=selenium" width="44" alt="Selenium">
-      <img src="assets/icons/playwright.svg" width="44" alt="Playwright"><br/>
-      <sub>FastAPI · Django · REST APIs · GraphQL · WebSockets · asyncio · Selenium · Playwright</sub>
+      <img src="assets/icons/pytest.svg" width="44" alt="pytest">
+      <img src="assets/icons/swagger.svg" width="44" alt="Swagger / OpenAPI"><br/>
+      <sub>FastAPI · Django · Flask · SQLAlchemy · Pydantic · REST APIs · GraphQL · WebSockets · asyncio · pytest · Swagger / OpenAPI · Selenium · Playwright</sub>
     </td>
   </tr>
   <tr>
-    <td><b>Also worked with</b></td>
+    <td width="170"><b>DevOps &amp; CI/CD</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript">
-      <img src="https://skillicons.dev/icons?i=react" width="44" alt="React">
-      <img src="https://skillicons.dev/icons?i=java" width="44" alt="Java">
-      <img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML">
-      <img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS">
-      <img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code"><br/>
-      <sub>JavaScript · React · Java · HTML · CSS · VS Code</sub>
+      <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="44" alt="Kubernetes">
+      <img src="assets/icons/helm.svg" width="44" alt="Helm">
+      <img src="https://skillicons.dev/icons?i=terraform" width="44" alt="Terraform">
+      <img src="https://skillicons.dev/icons?i=ansible" width="44" alt="Ansible">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="44" alt="Jenkins">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="44" alt="GitLab CI">
+      <img src="https://skillicons.dev/icons?i=nginx" width="44" alt="Nginx"><br/>
+      <sub>Docker · Docker Compose · Kubernetes · Helm · Terraform · Ansible · GitHub Actions · Jenkins · GitLab CI · Nginx</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Monitoring &amp; observability</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=prometheus" width="44" alt="Prometheus">
+      <img src="https://skillicons.dev/icons?i=grafana" width="44" alt="Grafana">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="44" alt="Elasticsearch">
+      <img src="assets/icons/kibana.svg" width="44" alt="Kibana"><br/>
+      <sub>Prometheus · Grafana · ELK stack (Elasticsearch, Logstash, Kibana) · CloudWatch · Azure Monitor</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>AWS</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" width="44" alt="Amazon Web Services"><br/>
+      <sub>S3 · EC2 · Lambda · RDS · Glue · Athena · EMR · Redshift · IAM · VPC · CloudWatch · SQS / SNS · ECS / EKS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Azure</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=azure" width="44" alt="Microsoft Azure"><br/>
+      <sub>Blob Storage / ADLS Gen2 · Data Factory · Azure Databricks · Synapse Analytics · Functions · AKS · Virtual Machines · Azure DevOps · Azure Monitor</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Linux &amp; shell tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=redhat" width="44" alt="Red Hat Enterprise Linux">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="44" alt="Ubuntu">
+      <img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux">
+      <img src="https://skillicons.dev/icons?i=bash" width="44" alt="Bash">
+      <img src="https://skillicons.dev/icons?i=vim" width="44" alt="Vim"><br/>
+      <sub>RHEL · Ubuntu · systemd · cron · SSH · rsync · grep / sed / awk · journalctl · htop · firewalld · yum / dnf · apt · vim · tmux</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Developer tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="44" alt="PyCharm">
+      <img src="https://skillicons.dev/icons?i=postman" width="44" alt="Postman">
+      <img src="https://skillicons.dev/icons?i=git" width="44" alt="Git">
+      <img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub">
+      <img src="assets/icons/jira.svg" width="44" alt="Jira">
+      <img src="assets/icons/jupyter.svg" width="44" alt="Jupyter"><br/>
+      <sub>VS Code · PyCharm · Postman · Git · GitHub · Jira · Jupyter</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Engineering practices</b></td>
+    <td>
+      <sub>Microservices · REST API design · Event-driven architecture · Message queues · Caching · CI/CD · Infrastructure as Code · Containerization · OOP &amp; design patterns · System design · Unit &amp; integration testing · Code review · Agile / Scrum</sub>
     </td>
   </tr>
 </table>
