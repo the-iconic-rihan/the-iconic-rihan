@@ -166,32 +166,31 @@ flowchart LR
       <img src="https://skillicons.dev/icons?i=grafana" width="44" alt="Grafana">
       <img src="https://skillicons.dev/icons?i=elasticsearch" width="44" alt="Elasticsearch">
       <img src="assets/icons/kibana.svg" width="44" alt="Kibana"><br/>
-      <sub>Prometheus · Grafana · ELK stack (Elasticsearch, Logstash, Kibana) · CloudWatch · Azure Monitor</sub>
+      <sub>Prometheus · Grafana · ELK stack (Elasticsearch, Logstash, Kibana)</sub>
     </td>
   </tr>
   <tr>
     <td width="170"><b>AWS</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws" width="44" alt="Amazon Web Services"><br/>
-      <sub>S3 · EC2 · Lambda · RDS · Glue · Athena · EMR · Redshift · IAM · VPC · CloudWatch · SQS / SNS · ECS / EKS</sub>
+      <sub>S3 · EC2 · Lambda · RDS</sub>
     </td>
   </tr>
   <tr>
     <td width="170"><b>Azure</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=azure" width="44" alt="Microsoft Azure"><br/>
-      <sub>Blob Storage / ADLS Gen2 · Data Factory · Azure Databricks · Synapse Analytics · Functions · AKS · Virtual Machines · Azure DevOps · Azure Monitor</sub>
+      <sub>Blob Storage / ADLS Gen2 · Azure DevOps</sub>
     </td>
   </tr>
   <tr>
     <td width="170"><b>Linux &amp; shell tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=redhat" width="44" alt="Red Hat Enterprise Linux">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="44" alt="Ubuntu">
       <img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux">
       <img src="https://skillicons.dev/icons?i=bash" width="44" alt="Bash">
       <img src="https://skillicons.dev/icons?i=vim" width="44" alt="Vim"><br/>
-      <sub>RHEL · Ubuntu · systemd · cron · SSH · rsync · grep / sed / awk · journalctl · htop · firewalld · yum / dnf · apt · vim · tmux</sub>
+      <sub>Ubuntu · systemd · cron · SSH · rsync · grep / sed / awk · htop · apt · vim · tmux</sub>
     </td>
   </tr>
   <tr>
