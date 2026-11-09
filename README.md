@@ -149,14 +149,11 @@ flowchart LR
     <td>
       <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="44" alt="Kubernetes">
-      <img src="assets/icons/helm.svg" width="44" alt="Helm">
-      <img src="https://skillicons.dev/icons?i=terraform" width="44" alt="Terraform">
-      <img src="https://skillicons.dev/icons?i=ansible" width="44" alt="Ansible">
       <img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions">
       <img src="https://skillicons.dev/icons?i=jenkins" width="44" alt="Jenkins">
       <img src="https://skillicons.dev/icons?i=gitlab" width="44" alt="GitLab CI">
       <img src="https://skillicons.dev/icons?i=nginx" width="44" alt="Nginx"><br/>
-      <sub>Docker · Docker Compose · Kubernetes · Helm · Terraform · Ansible · GitHub Actions · Jenkins · GitLab CI · Nginx</sub>
+      <sub>Docker · Docker Compose · Kubernetes · GitHub Actions · Jenkins · GitLab CI · Nginx</sub>
     </td>
   </tr>
   <tr>
