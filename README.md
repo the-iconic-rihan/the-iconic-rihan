@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Open_to-Data_Engineering_%26_DevOps_roles-2ea44f?style=flat-square" alt="Open to Data Engineering and DevOps roles">
   <br/>
   <img src="https://img.shields.io/badge/📍_India-Mumbai_·_Navi_Mumbai_·_Pune_·_Hyderabad_·_Bangalore-0f766e?style=flat-square" alt="India: Mumbai, Navi Mumbai, Pune, Hyderabad, Bangalore">
-  <img src="https://img.shields.io/badge/🌍_Open_to_relocation-USA_·_UK_·_Europe_·_Singapore_·_Australia-1f6feb?style=flat-square" alt="Open to relocation: USA, UK, Europe, Singapore, Australia">
+  <img src="https://img.shields.io/badge/🌍_Open_to_relocation-USA_·_Canada_·_UK_·_Europe_·_UAE_·_Singapore_·_Hong_Kong_·_Japan_·_Australia-1f6feb?style=flat-square" alt="Open to relocation: USA, Canada, UK, Europe, UAE, Singapore, Hong Kong, Japan, Australia">
 </p>
 
 ## 👋 About me
@@ -35,7 +35,8 @@ building:
 care_about: [data quality, idempotent re-runs, pipelines that recover on their own]
 preferred_locations:
   india: [Mumbai, Navi Mumbai, Pune, Hyderabad, Bangalore]
-  relocation: [USA, UK, Europe, Singapore, Australia]
+  relocation: [USA, Canada, UK, Ireland, Germany, Netherlands, rest of Europe,
+               UAE (Dubai), Singapore, Hong Kong, Japan, Australia, New Zealand]
 open_to: [Data Engineering, DevOps, Platform Engineering]
 ```
 
